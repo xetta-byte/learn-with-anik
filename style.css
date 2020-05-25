@@ -125,10 +125,10 @@ header{
 
 .header_content h2{
 	margin-bottom: 50px;
-	font-size: 30px;
+	font-size: 33px;
 	font-weight: 500;
 	letter-spacing: 0.1em;
-	text-shadow: 2px 1px 1px white;
+	text-shadow: 2px 1px 1px black;
 }
 
 
